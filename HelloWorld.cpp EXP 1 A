@@ -1,12 +1,11 @@
-//Abir Seth
-//PRN-24070123003
-//EnTC A1
+// Abir Seth
+// PRN - 24070123003
+// EnTC A1
 
 #include <iostream>
 using namespace std;
 
 int main(){
-    // if namespace not used,std:: has to be added before cout
     cout<<"Hello World"<<endl;
     cout<<"First Program";
    
